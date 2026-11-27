@@ -25,7 +25,7 @@ If I have enough time, my first priority is to finish LK-R and get it into a wor
 
 ![LEK concept reference](Screenshots/LEK-reference.webp)
 
-*LEK reference image, not an in-game model. Original illustrator and image license have not been verified.*
+*LEK reference image, not an in-game model.*
 
 ## Installation
 
