@@ -25,7 +25,7 @@ Designed for KSP 1.12.5 with Tantares v28.0, FreeIVA and ModuleManager. Once the
 
 ## Credits and dependencies
 
-- [Tantares](https://github.com/Tantares/Tantares) — original spacecraft models, textures and parts by Beale (Leo Semprini) and the Tantares contributors.
+- [Tantares](https://github.com/Tantares/Tantares) — original spacecraft models, textures and parts by Beale and the Tantares contributors.
 - [FreeIVA](https://github.com/FirstPersonKSP/FreeIva) — internal crew movement and hatch functionality by the FirstPersonKSP contributors.
 - [ModuleManager](https://github.com/sarbian/ModuleManager) — configuration patching.
 
