@@ -1,0 +1,62 @@
+{
+  "version": "0.2.2",
+  "exterior": {
+    "node_xyz_unity": [
+      0,
+      0.61,
+      0.14
+    ],
+    "crown_join_vertices": 458,
+    "flange_od": 0.9375,
+    "source_trim_radius_m": 0.418,
+    "crown_triangles_subdivided": 517,
+    "separate_stock_upper_mount_components_removed": 7,
+    "surface": "Original m1 panels, barycentric source UVs and deformed tangents",
+    "source": "Tantares v28 lk_v2_crew_s0p5_1.mu",
+    "game_tested": false
+  },
+  "IVA": {
+    "lk_m_interior": {
+      "actual_seam_angles": 226,
+      "ceiling_range_m": [
+        0.49085161446982145,
+        0.5574307237275802
+      ],
+      "rear_oblique_front_face_rays": 1368,
+      "rear_misses": 0,
+      "open_axial_rays": 60,
+      "cut": {
+        "triangles_before": 1912,
+        "triangles_after": 2510,
+        "triangles_considered_for_clip": 53
+      }
+    },
+    "lk_m_shell": {
+      "actual_seam_angles": 210,
+      "ceiling_range_m": [
+        0.4792008641442616,
+        0.5414272748587892
+      ],
+      "rear_oblique_front_face_rays": 1368,
+      "rear_misses": 0,
+      "open_axial_rays": 60,
+      "cut": {
+        "triangles_before": 605,
+        "triangles_after": 1142,
+        "triangles_considered_for_clip": 24
+      }
+    },
+    "part_node_xyz": [
+      0.0,
+      0.61,
+      0.14
+    ],
+    "runtime_tested": false
+  },
+  "model_sha256": {
+    "lk_m_interior.mu": "3824d8e35dd516d4de2255654797778eace1e84bb4205effde2a352303b9f67a",
+    "lk_m_shell.mu": "4e8b3da09def8e7a9290c235f574dde89427a46a2c5b65537c607b621a2427e8",
+    "lk_m_exterior.mu": "2b2ae00c384cc1bfa333a6c9a36024c40f91334604a293a4276937e1fb22a5f4"
+  },
+  "KSP_runtime_tested": false
+}
