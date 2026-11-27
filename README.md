@@ -19,6 +19,14 @@ This is an early work in progress, not a stable release.
 
 *Development previews. LK-R is still in development and is not included in the current build.*
 
+## Future plans
+
+If I have enough time, my first priority is to finish LK-R and get it into a working state. After that, I would like to create the **LEK (Lunniy Ekspeditsionniy Korabl / Лунный экспедиционный корабль — Lunar Expeditionary Spacecraft)**.
+
+![LEK concept reference](Screenshots/LEK-reference.webp)
+
+*LEK reference image, not an in-game model. Original illustrator and image license have not been verified.*
+
 ## Installation
 
 Designed for KSP 1.12.5 with Tantares v28.0, FreeIVA and ModuleManager. Once the asset redistribution terms are confirmed, copy `GameData/TantaresLunarExpansion` into your KSP `GameData` directory. Craft files are not included.
