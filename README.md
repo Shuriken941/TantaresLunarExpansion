@@ -6,8 +6,8 @@ My goal is to create a family of Soviet lunar spacecraft inspired by real histor
 
 ## Current development
 
-- **LK-M (Modified)** — a single-crew lunar lander with an upper docking port attachment for Apollo-style internal crew transfer using FreeIVA. Version 0.2.2.
-- **LK-R (Extended)** — a planned two-crew lunar lander with inflatable compartments for extended stays on the lunar surface. Currently in development.
+- **LK-M (Modifitsirovanniy / Модифицированный — Modified)** — a single-crew lunar lander with an upper docking port attachment for Apollo-style internal crew transfer using FreeIVA. Version 0.2.2.
+- **LK-R (Rasshirenniy / Расширенный — Extended)** — a planned two-crew lunar lander with inflatable living and EVA compartments for longer stays on the lunar surface. Currently in development.
 
 This is an early work in progress, not a stable release.
 
@@ -29,7 +29,9 @@ Designed for KSP 1.12.5 with Tantares v28.0, FreeIVA and ModuleManager. Once the
 - [FreeIVA](https://github.com/FirstPersonKSP/FreeIva) — internal crew movement and hatch functionality by the FirstPersonKSP contributors.
 - [ModuleManager](https://github.com/sarbian/ModuleManager) — configuration patching.
 
-Many thanks to the original authors and contributors. This is an unofficial, independent fan project.
+A big thank you to Beale for creating such an amazing mod!
+
+This is an unofficial, independent fan project.
 
 ## License and asset provenance
 
