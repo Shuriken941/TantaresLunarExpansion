@@ -11,6 +11,14 @@ My goal is to create a family of Soviet lunar spacecraft inspired by real histor
 
 This is an early work in progress, not a stable release.
 
+## Screenshots
+
+| LK-M — Modified lunar lander | LK-R — Extended lunar lander (WIP) |
+| :---: | :---: |
+| ![LK-M exterior](Screenshots/LK-M.webp) | ![LK-R with deployed inflatable compartments](Screenshots/LK-R.webp) |
+
+*Development previews. LK-R is still in development and is not included in the current build.*
+
 ## Installation
 
 Designed for KSP 1.12.5 with Tantares v28.0, FreeIVA and ModuleManager. Once the asset redistribution terms are confirmed, copy `GameData/TantaresLunarExpansion` into your KSP `GameData` directory. Craft files are not included.
